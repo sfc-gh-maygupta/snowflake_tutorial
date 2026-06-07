@@ -1,0 +1,1 @@
+create or replace table product (product_id number, prod_name varchar2(100));
